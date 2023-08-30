@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarjeta de presentación</string>
+
+    <!-- Compose Project -->
+    <string name="full_name">Jean_Jack</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="number">+11 (123) 444 555 666</string>
+    <string name="share">_@AndroidDev</string>
+    <string name="email">Jean_Jack_doe@android.com</string>
+</resources>
